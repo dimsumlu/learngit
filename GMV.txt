@@ -1,0 +1,7 @@
+http://tableaubi.corp.hetao101.com/#/views/GMV/GMV?:iid=2
+去除4-7SUM（支付GMV）-SUM(年续年订单GMV)
+获客成本=L1 CAC*L1招生量
+
+
+GMV=续报人数*2499
+
